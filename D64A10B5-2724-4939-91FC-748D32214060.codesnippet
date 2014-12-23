@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>NSUserDefaults</string>
+	<string>allocinit</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSUserDefaults * userDefaults = [NSUserDefaults standardUserDefaults];</string>
+	<string>[[&lt;#UIView#&gt; alloc] initWithFrame:CGRectMake(&lt;#CGFloat x#&gt;, &lt;#CGFloat y#&gt;, &lt;#CGFloat width#&gt;, &lt;#CGFloat height#&gt;)]</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4B73D25B-D354-4DD5-9BE2-B4D6D66BC281</string>
+	<string>D64A10B5-2724-4939-91FC-748D32214060</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>NSUserDefaults</string>
+	<string>alloc and initWithFrame</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>NSUserDefaults</string>
+	<string>initWithFrame</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
